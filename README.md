@@ -8,3 +8,8 @@ This repository contains a list of **small tests** regarding enhancements brough
 - [\[\[unlikely\]\]](attributes/likely_unlikely.cpp)
 - [\[\[nodiscard\]\]](attributes/odiscard.cpp)
 - [\[\[no_unique_address\]\]](attributes/no_unique_address.cpp)
+
+## Keywords
+
+- [consteval](keywords/consteval.cpp)
+- [constinit](keywords/constinit.cpp)
