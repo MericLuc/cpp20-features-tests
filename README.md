@@ -4,7 +4,7 @@ This repository contains a list of **small tests** regarding enhancements brough
 
 ## Attributes
 
-- [\[\[likely\]\]](likely_unlikely.cpp)
-- [\[\[unlikely\]\]](likely_unlikely.cpp)
-- [\[\[nodiscard\]\]](nodiscard.cpp)
-- [\[\[no_unique_address\]\]](no_unique_address.cpp)
+- [\[\[likely\]\]](attributes/likely_unlikely.cpp)
+- [\[\[unlikely\]\]](attributes/likely_unlikely.cpp)
+- [\[\[nodiscard\]\]](attributes/odiscard.cpp)
+- [\[\[no_unique_address\]\]](attributes/no_unique_address.cpp)
