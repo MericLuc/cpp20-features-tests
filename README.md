@@ -23,3 +23,4 @@ This repository contains a list of **small tests** regarding enhancements brough
 - [generalities](stl/span/generalities.cpp)
 - [automatic size deduction](stl/span/automatic-size-deduction.cpp)
 - [reallocations management](stl/span/reallocations_management.cpp)
+- [initialization from pointer and size](init_from_pointer.cpp)
