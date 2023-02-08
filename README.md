@@ -25,3 +25,4 @@ This repository contains a list of **small tests** regarding enhancements brough
 - [reallocations management](stl/span/reallocations_management.cpp)
 - [initialization from pointer and size](stl/span/init_from_pointer.cpp)
 - [modifying underlying elements](stl/span/modifying_elems.cpp)
+- [addressing underlying elements](stl/span/addressing_elems.cpp)
