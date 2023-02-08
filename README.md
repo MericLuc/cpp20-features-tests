@@ -21,3 +21,4 @@ This repository contains a list of **small tests** regarding enhancements brough
 ### std::span
 
 - [generalities](stl/span/generalities.cpp)
+- [automatic size deduction](stl/span/automatic-size-deduction.cpp)
