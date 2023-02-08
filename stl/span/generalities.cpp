@@ -60,3 +60,7 @@ int main()
 
     return EXIT_SUCCESS;
 }
+
+// 100
+// sizeof(s1) = 16
+// sizeof(s2) = 8
