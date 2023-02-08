@@ -2,14 +2,22 @@
 
 This repository contains a list of **small tests** regarding enhancements brought by the **_c++20 standard_**.
 
-## Attributes
+## Core language
+
+### Attributes
 
 - [\[\[likely\]\]](attributes/likely_unlikely.cpp)
 - [\[\[unlikely\]\]](attributes/likely_unlikely.cpp)
 - [\[\[nodiscard\]\]](attributes/odiscard.cpp)
 - [\[\[no_unique_address\]\]](attributes/no_unique_address.cpp)
 
-## Keywords
+### Keywords
 
 - [consteval](keywords/consteval.cpp)
 - [constinit](keywords/constinit.cpp)
+
+## Standard library
+
+### std::span
+
+- [generalities](stl/span/generalities.cpp)
