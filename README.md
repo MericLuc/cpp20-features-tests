@@ -32,3 +32,4 @@ This repository contains a list of **small tests** regarding enhancements brough
 - [std::erase_if](stl/containers/erase_if.cpp)
 - [std::string(_view) prefix/suffix](stl/containers/string_prefix_suffix.cpp)
 - [std::contains - associative containers](stl/containers/contains_associative_containers.cpp)
+- [constexpr improvments](stl/containers/constexpr-improvments.cpp)
