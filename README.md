@@ -30,3 +30,4 @@ This repository contains a list of **small tests** regarding enhancements brough
 ### Containers improvments
 
 - [std::erase_if](stl/containers/erase_if.cpp)
+- [std::string(_view) prefix/suffix](stl/containers/string_prefix_suffix.cpp)
