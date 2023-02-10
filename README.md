@@ -44,6 +44,7 @@ This repository contains a list of **small tests** regarding enhancements brough
 
 - [Using template parameters](lambdas/template-params.cpp)
 - [Implicit copy of `this`](lambdas/implicit-this.cpp)
+- [Unevaluated contexts](lambdas/unevaluated-contexts.cpp)
 
 </details>
 
