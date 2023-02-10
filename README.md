@@ -43,6 +43,7 @@ This repository contains a list of **small tests** regarding enhancements brough
 </summary>
 
 - [Using template parameters](lambdas/template-params.cpp)
+- [Implicit copy of `this`](lambdas/implicit-this.cpp)
 
 </details>
 
