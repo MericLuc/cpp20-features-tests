@@ -82,6 +82,8 @@ This repository contains a list of **small tests** regarding enhancements brough
 </summary>
 
 - [range and view concepts](stl/ranges/concepts.cpp)
+- [range adaptors](stl/ranges/adaptors.cpp)
+- [range algorithms on STL containers](stl/ranges/algo-on-containers.cpp)
 
 </details>
 
