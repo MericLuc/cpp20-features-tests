@@ -74,4 +74,15 @@ This repository contains a list of **small tests** regarding enhancements brough
 - [std::array creation](stl/containers/array-creation.cpp)
 </details>
 
+<details>
+<summary>
+
+### std::ranges library
+
+</summary>
+
+- [range and view concepts](stl/ranges/concepts.cpp)
+
+</details>
+
 </details>
