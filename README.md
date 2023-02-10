@@ -35,6 +35,17 @@ This repository contains a list of **small tests** regarding enhancements brough
 
 </details>
 
+<details>
+<summary>
+
+### Lambdas
+
+</summary>
+
+- [Using template parameters](lambdas/template-params.cpp)
+
+</details>
+
 </details>
 
 <details>
