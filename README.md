@@ -80,6 +80,7 @@ This repository contains a list of **small tests** regarding enhancements brough
 </summary>
 
 - [`volatile` type qualifier deprecation](misc/volatile.cpp)
+- [Range-based for loop with initializers](misc/range-based.cpp)
 
 </details>
 
