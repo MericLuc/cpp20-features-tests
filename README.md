@@ -48,6 +48,18 @@ This repository contains a list of **small tests** regarding enhancements brough
 
 </details>
 
+<details>
+<summary>
+
+### Designated initialization
+
+</summary>
+
+- [Aggregate initialization](designated_initialization/aggregate_initialization.cpp)
+- [Named initialization](designated_initialization/named_initialization.cpp)
+
+</details>
+
 </details>
 
 <details>
