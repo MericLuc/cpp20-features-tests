@@ -81,6 +81,7 @@ This repository contains a list of **small tests** regarding enhancements brough
 
 - [`volatile` type qualifier deprecation](misc/volatile.cpp)
 - [Range-based for loop with initializers](misc/range-based.cpp)
+- [virtual `constexpr` functions](misc/virtual-constexpr.cpp)
 
 </details>
 
