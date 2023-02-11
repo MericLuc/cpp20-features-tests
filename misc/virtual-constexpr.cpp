@@ -56,3 +56,8 @@ int main()
 
     return EXIT_SUCCESS;
 }
+
+// constexpr Base
+// non-constexpr Base
+// constexpr Derived
+// non-constexpr Derived
