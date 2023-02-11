@@ -60,6 +60,18 @@ This repository contains a list of **small tests** regarding enhancements brough
 
 </details>
 
+<details>
+<summary>
+
+### Templates
+
+</summary>
+
+- [Conditionally explicit constructors](templates/cond-exp-cstr.cpp)
+- [Non type template parameters](templates/non-type-params.cpp)
+
+</details>
+
 </details>
 
 <details>
