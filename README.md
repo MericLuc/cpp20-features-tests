@@ -72,6 +72,17 @@ This repository contains a list of **small tests** regarding enhancements brough
 
 </details>
 
+<details>
+<summary>
+
+### Miscellaneous
+
+</summary>
+
+- [`volatile` type qualifier deprecation](misc/volatile.cpp)
+
+</details>
+
 </details>
 
 <details>
