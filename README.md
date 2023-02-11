@@ -18,7 +18,7 @@ This repository contains a list of **small tests** regarding enhancements brough
 
 - [\[\[likely\]\]](attributes/likely_unlikely.cpp)
 - [\[\[unlikely\]\]](attributes/likely_unlikely.cpp)
-- [\[\[nodiscard\]\]](attributes/odiscard.cpp)
+- [\[\[nodiscard\]\]](attributes/nodiscard.cpp)
 - [\[\[no_unique_address\]\]](attributes/no_unique_address.cpp)
 
 </details>
@@ -82,6 +82,7 @@ This repository contains a list of **small tests** regarding enhancements brough
 - [`volatile` type qualifier deprecation](misc/volatile.cpp)
 - [Range-based for loop with initializers](misc/range-based.cpp)
 - [virtual `constexpr` functions](misc/virtual-constexpr.cpp)
+- [`enum` in local scopes](misc/enum-local.cpp)
 
 </details>
 
