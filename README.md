@@ -152,6 +152,7 @@ This repository contains a list of **small tests** regarding enhancements brough
 
 - [Mathematical constants](stl/arithmetic/math-constants.cpp)
 - [Midpoint and linear interpolation](stl/arithmetic/midpoint-linear.cpp)
+- [Safe comparison of integers](stl/arithmetic/safe-comparison.cpp)
 
 </details>
 
