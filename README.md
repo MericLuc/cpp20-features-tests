@@ -2,6 +2,8 @@
 
 This repository contains a list of **small tests** regarding enhancements brought by the **_c++20 standard_**.
 
+--------
+
 <details>
 <summary>
 
@@ -88,6 +90,8 @@ This repository contains a list of **small tests** regarding enhancements brough
 
 </details>
 
+--------
+
 <details>
 <summary>
 
@@ -147,7 +151,21 @@ This repository contains a list of **small tests** regarding enhancements brough
 </summary>
 
 - [Mathematical constants](stl/arithmetic/math-constants.cpp)
+- [Midpoint and linear interpolation](stl/arithmetic/midpoint-linear.cpp)
 
 </details>
 
 </details>
+
+--------
+
+<details>
+<summary>
+
+## Concurrency
+
+</summary>
+
+</details>
+
+--------
