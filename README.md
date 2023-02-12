@@ -139,4 +139,15 @@ This repository contains a list of **small tests** regarding enhancements brough
 
 </details>
 
+<details>
+<summary>
+
+### Arithmetic utilities
+
+</summary>
+
+- [Mathematical constants](stl/arithmetic/math-constants.cpp)
+
+</details>
+
 </details>
