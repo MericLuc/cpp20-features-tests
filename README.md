@@ -170,6 +170,18 @@ This repository contains a list of **small tests** regarding enhancements brough
 
 </details>
 
+<details>
+<summary>
+
+### std::format library
+
+</summary>
+
+- [Principles](stl/format/principles.cpp)
+- [Extensibility](stl/format/extensibility.cpp)
+
+</details>
+
 </details>
 
 --------
