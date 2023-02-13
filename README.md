@@ -157,6 +157,19 @@ This repository contains a list of **small tests** regarding enhancements brough
 
 </details>
 
+<details>
+<summary>
+
+### Time and calendar
+
+</summary>
+
+- [Time of day](stl/time/time-of-day.cpp)
+- [Calendar dates](stl/time/calendar-dates.cpp)
+- [TIme zones](stl/time/time-zones.cpp)
+
+</details>
+
 </details>
 
 --------
