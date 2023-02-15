@@ -82,7 +82,7 @@ This repository contains a list of **small tests** regarding enhancements brough
 </summary>
 
 - [Ordering pre-c++20](ordering/ordering-before.cpp)
-- [Ordering now](ordering/ordering-now.cpp)
+- [Ordering now](ordering/ordering-since.cpp)
 - [The compiler-generated `<=>`](ordering/compiler-generated.cpp)
 - [The pointer case](ordering/pointer-case.cpp)
 - [Comparisons at compile-time](ordering/compile-time.cpp)
