@@ -14,6 +14,17 @@ This repository contains a list of **small tests** regarding enhancements brough
 <details>
 <summary>
 
+### Modules
+
+</summary>
+
+- [An example worth 1000 words](modules/)
+
+</details>
+
+<details>
+<summary>
+
 ### Attributes
 
 </summary>
