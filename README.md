@@ -25,6 +25,17 @@ This repository contains a list of **small tests** regarding enhancements brough
 <details>
 <summary>
 
+### Concepts
+
+</summary>
+
+- TODO So much to say...
+
+</details>
+
+<details>
+<summary>
+
 ### Attributes
 
 </summary>
